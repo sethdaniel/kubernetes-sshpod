@@ -1,12 +1,15 @@
+# Description
+This is a quick way to ssh into a pod without having to spend 5000 years typing or copy/pasting long pod names.
+
+
+
+---
 # Requirements
 You must have the following before beginning:
 
 * a working and configured Kubernetes cluster with some pods running
 * kubectl
 
-
-
----
 
 ---
 # Installation on nix systems
