@@ -25,7 +25,7 @@ You must have the following before beginning:
 1. Open `~/.bashrc` in any text editor.
 1. Add this line to the end of the file:
 
-        source ~/.sshpod.sh
+        source usr/local/bin/.sshpod.sh
 
 1. Save and exit.
 1. Restart terminal before use.
